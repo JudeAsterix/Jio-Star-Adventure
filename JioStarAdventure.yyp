@@ -34,11 +34,10 @@
   },
   "name":"JioStarAdventure",
   "resources":[
-    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"Obj_GOD","path":"objects/Obj_GOD/Obj_GOD.yy",},},
     {"id":{"name":"Obj_Jio","path":"objects/Obj_Jio/Obj_Jio.yy",},},
     {"id":{"name":"Obj_Star","path":"objects/Obj_Star/Obj_Star.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"game","path":"rooms/game/game.yy",},},
     {"id":{"name":"Jio_Scripts","path":"scripts/Jio_Scripts/Jio_Scripts.yy",},},
     {"id":{"name":"Script2","path":"scripts/Script2/Script2.yy",},},
     {"id":{"name":"An_Intermission","path":"sounds/An_Intermission/An_Intermission.yy",},},
@@ -50,7 +49,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"game","path":"rooms/game/game.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

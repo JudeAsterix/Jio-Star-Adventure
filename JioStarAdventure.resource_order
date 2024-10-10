@@ -17,7 +17,6 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"Font1","order":1,"path":"fonts/Font1/Font1.yy",},
     {"name":"Obj_GOD","order":2,"path":"objects/Obj_GOD/Obj_GOD.yy",},
     {"name":"Obj_Star","order":1,"path":"objects/Obj_Star/Obj_Star.yy",},
     {"name":"Script2","order":1,"path":"scripts/Script2/Script2.yy",},

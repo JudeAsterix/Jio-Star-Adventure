@@ -1,8 +1,19 @@
 /// @description Insert description here
 // You can write your code in this editor
-star_ticker = (star_ticker + 1) % 30;
 
-if(star_ticker == 0)
+if(keyboard_check_pressed(vk_escape))
 {
-	instance_create_layer(random(1366), -30, "Instances", Obj_Star);
+	paused = !paused;
+	if(!paused)
+	{
+		instance_activate_all();
+		surface_free(paused_surface);
+		paused_surface = -1;
+		part_system_automatic_update(global.p_system, true);
+	}
+}
+
+if(paused){
+	alarm[0] ++;
+	alarm[1] ++;
 }

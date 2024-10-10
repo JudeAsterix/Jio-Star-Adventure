@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"An_Intermission",
+  "%Name":"snd_star_pickup",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":158.99864,
-  "name":"An_Intermission",
+  "duration":1.712472,
+  "name":"snd_star_pickup",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"An_Intermission.wav",
+  "soundFile":"snd_star_pickup.wav",
   "type":0,
-  "volume":1.0,
+  "volume":0.56,
 }

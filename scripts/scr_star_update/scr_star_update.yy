@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"Jio_Scripts",
+  "%Name":"scr_star_update",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"Jio_Scripts",
+  "name":"scr_star_update",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

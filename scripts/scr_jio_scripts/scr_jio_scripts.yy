@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"Script2",
+  "%Name":"scr_jio_scripts",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"Script2",
+  "name":"scr_jio_scripts",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

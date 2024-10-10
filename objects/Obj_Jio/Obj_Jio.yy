@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_Jio",
+  "%Name":"obj_jio",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_Jio",
+  "name":"obj_jio",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_Jio",
-    "path":"sprites/Spr_Jio/Spr_Jio.yy",
+    "name":"spr_jio",
+    "path":"sprites/spr_jio/spr_jio.yy",
   },
   "spriteMaskId":null,
   "visible":true,

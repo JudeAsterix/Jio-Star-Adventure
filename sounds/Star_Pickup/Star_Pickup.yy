@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Star_Pickup",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.712472,
+  "name":"Star_Pickup",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Star_Pickup.wav",
+  "type":0,
+  "volume":0.56,
+}
